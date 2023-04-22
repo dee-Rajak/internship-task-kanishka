@@ -16,7 +16,6 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  // File? imageFile;
   LocationData? _currentPosition;
   Location location = new Location();
 
